@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "294623949409",
+    "firebase_url": "https://car-auction-application-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "car-auction-application",
+    "storage_bucket": "car-auction-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294623949409:android:42b0845b75856d1f2b7020",
+        "android_client_info": {
+          "package_name": "com.app.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294623949409-lr0sj5uucfaig4s9j5p9n3gat1iqse69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChHD4NiaBPbXn2Dp-1rIYnzdDgLVAOoVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294623949409-lr0sj5uucfaig4s9j5p9n3gat1iqse69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
